@@ -20,8 +20,8 @@ def insert_logo(input_video, logo_path, output_video):
         print("Erreur lors de l'insertion du logo :", e)
 
 # Chemin vers la vidéo d'entrée, le logo et la vidéo de sortie
-input_video_path = './videoInput/14.mp4'
-logo_path = './img.png'
+input_video_path = './videoInput/video_entree.mp4'
+logo_path = '.logo/logo.png'
 output_video_path = './videoOutput/video_sortie.mp4'
 
 # Appel de la fonction pour insérer le logo

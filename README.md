@@ -5,7 +5,7 @@
 
 Si ce n'est pas le cas, vous pouvez le télécharger depuis le site officiel de Python : https://www.python.org/downloads/
 
-2. Placez le fichier Python (insert_logo.py) dans le même répertoire que vos vidéos d'entrée et votre logo.
+2. Placez le logo ainsi que la video dans leur repertoires respectifs (en respectant le naming: video_entree.mp4 & logo.png).
 
 3. Ouvrez un terminal, Utilisez la commande cd pour naviguer jusqu'au répertoire où se trouve le fichier insert_logo.py.
 
